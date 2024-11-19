@@ -3,6 +3,10 @@
 # c = a + b
 # print(c)
 
-text = "hello"
-for cha in text: 
-    print(cha)
+# text = "hello"
+# for cha in text: 
+#     print(cha)
+
+text = "hello world"
+for char in text:
+    print(text)
