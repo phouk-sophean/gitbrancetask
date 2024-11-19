@@ -1,4 +1,8 @@
-a = 10
-b = 10
-c = a + b
-print(c)
+# a = 10
+# b = 10
+# c = a + b
+# print(c)
+
+text = "hello"
+for cha in text: 
+    print(cha)
