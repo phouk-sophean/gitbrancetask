@@ -7,8 +7,8 @@
 # for cha in text: 
 #     print(cha)
 
-text = "hello world"
-for char in text:
-    if char == "h":
-        print("sophean")
+# text = "hello world"
+# for char in text:
+#     if char == "h":
+#         print("sophean")
 
