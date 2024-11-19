@@ -9,4 +9,5 @@
 
 text = "hello world"
 for char in text:
-    print(text)
+    if char == "h":
+        print("phean")
